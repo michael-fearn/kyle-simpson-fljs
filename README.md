@@ -1,0 +1,1 @@
+A collection of code from Functional light javascript written by Kyle Simpson
